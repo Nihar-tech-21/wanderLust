@@ -20,18 +20,18 @@ Wanderlust is a full-stack web application inspired by Airbnb, built with Node.j
 
 📂 Tech Stack
 
-Backend: Node.js, Express.js
+&rarr; Backend: Node.js, Express.js
 
-Frontend: EJS, Bootstrap
+&rarr; Frontend: EJS, Bootstrap
 
-Database: MongoDB, Mongoose
+&rarr; Database: MongoDB, Mongoose
 
-Authentication: Passport.js, express-session
+&rarr; Authentication: Passport.js, express-session
 
-Maps: MapTiler API
+&rarr; Maps: MapTiler API
 
 🚀 Future Enhancements
 
-Booking system with payment integration
+&rarr; Booking system with payment integration
 
-Enhanced responsiveness
+&rarr; Enhanced responsiveness
