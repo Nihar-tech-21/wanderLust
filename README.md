@@ -32,8 +32,6 @@ Maps: MapTiler API
 
 🚀 Future Enhancements
 
-Image uploads with Cloudinary
-
 Booking system with payment integration
 
-Search and filtering functionality
+Enhanced responsiveness
